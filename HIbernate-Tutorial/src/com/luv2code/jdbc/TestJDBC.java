@@ -7,7 +7,7 @@ public class TestJDBC {
 
 	public static void main(String[] args) {
 	
-		String url = "jdbc:mysql://localhost:3306/JavaDB";
+		String url = "jdbc:mysql://localhost:3306/Demo_Schema";
 		String uname = "root";
 		String pass = "password";
 		try 
